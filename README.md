@@ -74,7 +74,7 @@ Wireframing tools help designers create and iterate on layouts efficiently, enab
 **Why Figma is Useful for Wireframing:**
 Figma combines ease of use with powerful design features, making it suitable for both **low-fidelity** and **high-fidelity wireframes**. Its collaborative environment supports efficient teamwork, faster feedback, and smoother handoffs between designers and developers.
 
-## Benefits of Wireframing from a Software Development Perspective
+## discussing the benefits of wireframing from a software development perspective
 
 Wireframing plays a crucial role not only in design but also in the broader software development process. It serves as a bridge between **conceptual ideas** and **functional implementation**, helping both designers and developers stay aligned throughout the project lifecycle.
 
