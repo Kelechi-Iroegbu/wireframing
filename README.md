@@ -20,7 +20,7 @@ Wireframes make it possible to test layouts and interaction flows with users ear
 #Ensures alignment with business objectives:
 By clarifying the product’s structure and key features from the start, wireframes help confirm that every design decision supports the broader business and user goals.
 
-## Differences Between Low-Fidelity and High-Fidelity Wireframes
+## Types of Wireframes.
 
 ### Low-Fidelity Wireframes
 **Low-fidelity wireframes** are basic, simplified sketches that outline the general layout and structure of a digital product. They use simple shapes, placeholders, and minimal details to represent interface elements. These wireframes focus on functionality, content placement, and overall user flow rather than visual design.
